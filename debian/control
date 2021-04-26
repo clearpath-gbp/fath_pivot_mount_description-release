@@ -1,0 +1,12 @@
+Source: ros-melodic-lockmount-description
+Section: misc
+Priority: optional
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-lockmount-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-urdf, ros-melodic-xacro
+Description: URDF Macro for adding an adjustable, locking mount used for cameras and other sensors
