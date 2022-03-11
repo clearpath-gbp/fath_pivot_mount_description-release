@@ -1,3 +1,26 @@
+## fath_pivot_mount_description (melodic) - 0.1.0-1
+
+The packages in the `fath_pivot_mount_description` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic fath_pivot_mount_description` on `Fri, 11 Mar 2022 15:26:23 -0000`
+
+The `fath_pivot_mount_description` package was released.
+
+Version of package(s) in repository `fath_pivot_mount_description`:
+
+- upstream repository: https://github.com/clearpathrobotics/lockmount_description.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.2-2`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## lockmount_description (melodic) - 0.0.2-2
 
 The packages in the `lockmount_description` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic lockmount_description --edit-track` on `Fri, 11 Feb 2022 21:21:52 -0000`
